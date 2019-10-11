@@ -1,6 +1,17 @@
 # Data-Visualization-Hackathon
-
 Used excel, python and tableau to create data visualization for exploratory data analysis on Terrorism dataset
+
+## Table of contents
+* [General info](#general-info)
+* [Screenshots](#screenshots)
+* [Demo](#demo)
+* [Technologies and Tools](#technologies-and-tools)
+* [Setup](#setup)
+* [Process](#process)
+* [Code Examples](#code-examples)
+* [Features](#features)
+* [Status](#status)
+* [Contact](#contact)
 
 ## Contact
 Created by me with my teammates [Vignesh Viswanathan](https://github.com/vigviswa)
